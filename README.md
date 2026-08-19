@@ -44,6 +44,8 @@ Employee turnover creates substantial operational and financial costs for organi
 │   └── predictive_risk_roster.png       # Dashboard Screenshot: Page 2
 └── README.md                            # Project Documentation
 
+---
+
 ## 💡 Key Insights & Findings
 Workload & Burnout: Employees logging high average monthly hours (\ge 250 hours) paired with low satisfaction scores showed the highest churn probability.
 Lack of Career Progression: Over 98% of employees who left received zero promotions within the last 5 years.
