@@ -44,7 +44,7 @@ Employee turnover creates substantial operational and financial costs for organi
 │   └── predictive_risk_roster.png       # Dashboard Screenshot: Page 2
 └── README.md                            # Project Documentation
 
----
+```
 
 ## 💡 Key Insights & Findings
 Workload & Burnout: Employees logging high average monthly hours (\ge 250 hours) paired with low satisfaction scores showed the highest churn probability.
@@ -62,7 +62,7 @@ An operational view filtering for high-probability churn candidates (>70\% proba
 ## 🚀 How to Run & Reproduce
 1. Environment Setup
 Clone the repository and install the required dependencies:
-https://github.com/your-username/hr-analytics-churn-prediction.git
+https://github.com/annusiwach/HR-Analytics-Churn-Prediction-
 2. Execute Notebooks
 Run the Jupyter notebooks in order within the notebooks/ directory:
 01_data_cleaning.ipynb
@@ -71,7 +71,7 @@ Run the Jupyter notebooks in order within the notebooks/ directory:
 3. View Dashboard
 Open dashboards/HR_Analytics_Dashboard.pbix in Power BI Desktop to interact with the visualizations and explore dynamic slicers.
 
-📈 Impact & Business Value
+## 📈 Impact & Business Value
 By shifting HR operations from reactive exit interviews to proactive risk identification, this analytics pipeline empowers organizations to:
 Target retention budgets toward high-value, high-risk personnel.
 Address systemic organizational issues such as burnout and stagnant career progression.
