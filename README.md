@@ -65,9 +65,9 @@ Clone the repository and install the required dependencies:
 https://github.com/annusiwach/HR-Analytics-Churn-Prediction-
 2. Execute Notebooks
 Run the Jupyter notebooks in order within the notebooks/ directory:
-01_data_cleaning.ipynb
-02_eda_analysis.ipynb
-03_model_building.ipynb
+   https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/01_data_cleaning.ipynb
+   https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/02_eda_analysis.ipynb
+  https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/03_atrition_model.ipynb
 3. View Dashboard
 Open dashboards/HR_Analytics_Dashboard.pbix in Power BI Desktop to interact with the visualizations and explore dynamic slicers.
 
