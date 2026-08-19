@@ -65,11 +65,11 @@ Clone the repository and install the required dependencies:
 https://github.com/annusiwach/HR-Analytics-Churn-Prediction-
 2. Execute Notebooks
 Run the Jupyter notebooks in order within the notebooks/ directory:
-   https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/01_data_cleaning.ipynb
-   https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/02_eda_analysis.ipynb
-  https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/03_atrition_model.ipynb
+   ['https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/01_data_cleaning.ipynb']
+   ['https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/02_eda_analysis.ipynb']
+  ['https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/03_atrition_model.ipynb']
 3. View Dashboard
-Open dashboards/HR_Analytics_Dashboard.pbix in Power BI Desktop to interact with the visualizations and explore dynamic slicers.
+   Open ['https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/dashboards/HR_Analytics_Dashboard.pbix'] in Power BI Desktop to interact with the visualizations and explore dynamic slicers.
 
 ## 📈 Impact & Business Value
 By shifting HR operations from reactive exit interviews to proactive risk identification, this analytics pipeline empowers organizations to:
