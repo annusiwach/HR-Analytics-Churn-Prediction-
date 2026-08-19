@@ -47,7 +47,7 @@ Employee turnover creates substantial operational and financial costs for organi
 ```
 
 ## 💡 Key Insights & Findings
-Workload & Burnout: Employees logging high average monthly hours (\ge 250 hours) paired with low satisfaction scores showed the highest churn probability.
+Workload & Burnout: Employees logging high average monthly hours (>= 250 hours) paired with low satisfaction scores showed the highest churn probability.
 Lack of Career Progression: Over 98% of employees who left received zero promotions within the last 5 years.
 Tenure Vulnerability: Attrition peaks significantly among employees with a 3-to-5 year tenure.
 Compensation Sensitivity: The vast majority of attrited staff fell into the lower and medium salary tiers.
@@ -62,7 +62,7 @@ An operational view filtering for high-probability churn candidates (>70\% proba
 ## 🚀 How to Run & Reproduce
 1. Environment Setup
 Clone the repository and install the required dependencies:
-https://github.com/annusiwach/HR-Analytics-Churn-Prediction-
+['https://github.com/annusiwach/HR-Analytics-Churn-Prediction-']
 2. Execute Notebooks
 Run the Jupyter notebooks in order within the notebooks/ directory:
    ['https://github.com/annusiwach/HR-Analytics-Churn-Prediction-/blob/main/notebooks/01_data_cleaning.ipynb']
