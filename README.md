@@ -44,20 +44,20 @@ Employee turnover creates substantial operational and financial costs for organi
 │   └── predictive_risk_roster.png       # Dashboard Screenshot: Page 2
 └── README.md                            # Project Documentation
 
-💡 Key Insights & Findings
+## 💡 Key Insights & Findings
 Workload & Burnout: Employees logging high average monthly hours (\ge 250 hours) paired with low satisfaction scores showed the highest churn probability.
 Lack of Career Progression: Over 98% of employees who left received zero promotions within the last 5 years.
 Tenure Vulnerability: Attrition peaks significantly among employees with a 3-to-5 year tenure.
 Compensation Sensitivity: The vast majority of attrited staff fell into the lower and medium salary tiers.
 
-📊 Dashboard Overview
+## 📊 Dashboard Overview
 The interactive Power BI solution features a high-contrast executive theme organized into two target views:
 1. Executive Overview
 Focuses on macro-level workforce health, attrition trends, salary tier breakdowns, burnout scatter plots, and department-level turnover rates.
 2. Predictive Risk Roster
 An operational view filtering for high-probability churn candidates (>70\% probability score), highlighting individual employee IDs, satisfaction levels, evaluation metrics, and calculated risk scores formatted with dynamic conditional color indicators.
 
-🚀 How to Run & Reproduce
+## 🚀 How to Run & Reproduce
 1. Environment Setup
 Clone the repository and install the required dependencies:
 https://github.com/your-username/hr-analytics-churn-prediction.git
